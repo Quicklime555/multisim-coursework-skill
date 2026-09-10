@@ -1,0 +1,25 @@
+# Course and personal materials
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.pdf
+*.ms14
+*.png
+*.jpg
+*.jpeg
+
+# Secrets and local state
+.env
+.env.*
+credentials.json
+*.key
+*.pem
+
+# Generated workspaces and caches
+skill-workspaces/
+dist/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
